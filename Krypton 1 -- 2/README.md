@@ -1,6 +1,6 @@
 
 # Krypton 1 -> 2
-> SSH Info: ssh -p 2222 krypton1@krypton.labs.overthewire.org
+> SSH Info: ssh -p 2222 krypton1@krypton.labs.overthewire.org  
 > Password: KRYPTONISGREAT
 
 
