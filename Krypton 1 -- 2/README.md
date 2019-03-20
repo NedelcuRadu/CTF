@@ -22,4 +22,4 @@ The first result looks like garbage, however the second one is clear plaintext a
 **Password:** ROTTEN
 
 
-[Next Level]()
+[Next Level](https://github.com/ShumaherK/Krypton/tree/master/Krypton%202%20--%203)
