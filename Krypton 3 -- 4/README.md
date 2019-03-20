@@ -1,6 +1,6 @@
 
 # Krypton 3 -> 4
-> SSH Info: ssh -p 2222 krypton3@krypton.labs.overthewire.org 
+> SSH Info: ssh -p 2222 krypton3@krypton.labs.overthewire.org   
 > Password: CAESARISEASY
 
 
@@ -15,9 +15,9 @@ Enjoy.
 This time the level will not be so easy and we will have to crack the code manually, using [frequency analysis](https://learncryptography.com/attack-vectors/frequency-analysis). I recommend [this](https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html#encrypt) tool in order to make things a little easier to track.
 
 Our ciphertexts are:
- * [Found1]()
- * [Found2]()
- * [Found3]()
+ * [Found1](https://github.com/ShumaherK/Krypton/blob/master/Krypton%203%20--%204/Found1)
+ * [Found2](https://github.com/ShumaherK/Krypton/blob/master/Krypton%203%20--%204/Found2)
+ * [Found3](https://github.com/ShumaherK/Krypton/blob/master/Krypton%203%20--%204/Found3)
 ```
 
 ```
