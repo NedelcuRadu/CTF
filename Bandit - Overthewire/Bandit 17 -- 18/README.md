@@ -1,4 +1,4 @@
-
+﻿
 # Bandit 17 -> 18
 > SSH Info: ssh -p2220 bandit17@bandit.labs.overthewire.org  
 > Password: xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
@@ -22,4 +22,4 @@ And we got our password.
 **Password:** kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2018%20--%2019/README.md)
+[Next Level](../Bandit%2018%20--%2019/README.md)

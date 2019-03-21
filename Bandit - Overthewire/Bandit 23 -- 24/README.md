@@ -1,4 +1,4 @@
-
+﻿
 # Bandit 23 -> 24
 > SSH Info: ssh -p2220 bandit23@bandit.labs.overthewire.org  
 > Password: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
@@ -40,4 +40,4 @@ Let's try to run the script.
 **Password:** jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2024%20--%2025/README.md)
+[Next Level](../Bandit%2024%20--%2025/README.md)

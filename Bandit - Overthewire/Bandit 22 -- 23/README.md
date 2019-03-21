@@ -59,4 +59,4 @@ jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
 **Password:** jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2023%20--%2024/README.md)
+[Next Level](../Bandit%2023%20--%2024/README.md)

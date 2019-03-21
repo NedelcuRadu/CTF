@@ -35,4 +35,4 @@ bandit3@bandit:~/inhere$
 
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%204%20--%205/README.md)
+[Next Level](../Bandit%204%20--%205/README.md)

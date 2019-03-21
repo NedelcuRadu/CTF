@@ -30,4 +30,4 @@ bandit10@bandit:~$
 **Password:** IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2011%20--%2012/README.md)
+[Next Level](../Bandit%2011%20--%2012/README.md)

@@ -1,4 +1,4 @@
-
+﻿
 # Krypton 1 -> 2
 > SSH Info: ssh -p 2222 krypton1@krypton.labs.overthewire.org  
 > Password: KRYPTONISGREAT
@@ -22,4 +22,4 @@ The first result looks like garbage, however the second one is clear plaintext a
 **Password:** ROTTEN
 
 
-[Next Level](https://github.com/ShumaherK/Krypton/tree/master/Krypton%202%20--%203)
+[Next Level](../Krypton%202%20--%203)

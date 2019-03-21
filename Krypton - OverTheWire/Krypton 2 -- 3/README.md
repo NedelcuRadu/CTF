@@ -1,4 +1,4 @@
-
+﻿
 # Krypton 2 -> 3
 > SSH Info: ssh -p 2222 krypton2@krypton.labs.overthewire.org   
 > Password: ROTTEN
@@ -42,4 +42,4 @@ Using the same [`tool`](https://www.dcode.fr/caesar-cipher) the level becomes tr
 **Password:** CAESARISEASY
 
 
-[Next Level](https://github.com/ShumaherK/Krypton/tree/master/Krypton%203%20--%204)
+[Next Level](../Krypton%203%20--%204)

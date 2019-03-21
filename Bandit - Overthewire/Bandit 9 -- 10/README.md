@@ -1,4 +1,4 @@
-
+﻿
 # Bandit 9 -> 10
 > SSH Info: ssh -p2220 bandit9@bandit.labs.overthewire.org  
 > Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
@@ -39,4 +39,4 @@ iv8!=
 **Password:** truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2010%20--%2011/README.md)
+[Next Level](../Bandit%2010%20--%2011/README.md)

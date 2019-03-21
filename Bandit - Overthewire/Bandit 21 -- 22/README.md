@@ -43,4 +43,4 @@ Looks like our password.
 **Password:** Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2022%20--%2023/README.md)
+[Next Level](../Bandit%2022%20--%2023/README.md)

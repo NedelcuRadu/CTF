@@ -32,4 +32,4 @@ And we got our password.
 **Password:** GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2020%20--%2021/README.md)
+[Next Level](../Bandit%2020%20--%2021/README.md)

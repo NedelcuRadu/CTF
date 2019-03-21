@@ -71,4 +71,4 @@ bandit12@bandit:/tmp/aqwsed$
 **Password:** 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2013%20--%2014/README.md)
+[Next Level](../Bandit%2013%20--%2014/README.md)

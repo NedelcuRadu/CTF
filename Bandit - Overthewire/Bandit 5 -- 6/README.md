@@ -47,4 +47,4 @@ DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 **Password:** DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%206%20--%207/README.md)
+[Next Level](../Bandit%206%20--%207/README.md)

@@ -24,4 +24,4 @@ KRYPTONISGREAT
 **Password:** KRYPTONISGREAT
 
 
-[Next Level](https://github.com/ShumaherK/Krypton/tree/master/Krypton%201%20--%202)
+[Next Level](../Krypton%201%20--%202)

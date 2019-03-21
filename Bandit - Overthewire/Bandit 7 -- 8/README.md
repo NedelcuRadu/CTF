@@ -28,4 +28,4 @@ millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 **Password:** cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%208%20--%209/README.md)
+[Next Level](../Bandit%208%20--%209/README.md)

@@ -1,4 +1,4 @@
-
+﻿
 # Bandit 4 -> 5
 > SSH Info: ssh -p2220 bandit4@bandit.labs.overthewire.org  
 > Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
@@ -23,4 +23,4 @@ There is a bunch of garbage, but we can notice a string that looks like our pass
 **Password:** koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%205%20--%206/README.md)
+[Next Level](../Bandit%205%20--%206/README.md)

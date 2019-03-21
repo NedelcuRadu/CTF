@@ -1,4 +1,4 @@
-
+﻿
 # Bandit 15 -> 16
 > SSH Info: ssh -p2220 bandit15@bandit.labs.overthewire.org  
 > Password: BfMYroe26WYalil77FoDi9qh59eK5xNr
@@ -30,4 +30,4 @@ bandit15@bandit:~$
 **Password:** cluFn7wTiGryunymYOu4RcffSxQluehd
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2016%20--%2017/README.md)
+[Next Level](../Bandit%2016%20--%2017/README.md)

@@ -30,4 +30,4 @@ bandit1@bandit:~$
 
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%202%20--%203/README.md)
+[Next Level](../Bandit%202%20--%203/README.md)

@@ -38,4 +38,4 @@ gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
 [4]   Done                    echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l -p 4004
 ```
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2021%20--%2022/README.md)
+[Next Level](../Bandit%2021%20--%2022/README.md)

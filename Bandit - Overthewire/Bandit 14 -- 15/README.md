@@ -26,4 +26,4 @@ bandit14@bandit:/$
 **Password:** BfMYroe26WYalil77FoDi9qh59eK5xNr
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%2015%20--%2016/README.md)
+[Next Level](../Bandit%2015%20--%2016/README.md)
