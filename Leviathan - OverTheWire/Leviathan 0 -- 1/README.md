@@ -3,7 +3,7 @@
 > Password: leviathan0
 
 ## Level files
-```
+```console
 leviathan0@leviathan:~$ ls -la
 total 24
 drwxr-xr-x  3 root       root       4096 Oct 29 21:17 .
@@ -16,7 +16,7 @@ drwxr-x---  2 leviathan1 leviathan0 4096 Oct 29 21:17 .backup
 
 The only thing that seems interesting is the `.backup` directory so let's dig in.
 
-```
+```console
 leviathan0@leviathan:~/.backup$ ls -la
 total 140
 drwxr-x--- 2 leviathan1 leviathan0   4096 Oct 29 21:17 .
@@ -26,7 +26,7 @@ drwxr-xr-x 3 root       root         4096 Oct 29 21:17 ..
 
 Let's check for password:
 
-```
+```console
 leviathan0@leviathan:~/.backup$ grep password bookmarks.html 
 <DT><A HREF="http://leviathan.labs.overthewire.org/passwordus.html | This will be fixed later, the password for leviathan1 is rioGegei8m" ADD_DATE="1155384634" LAST_CHARSET="ISO-8859-1" ID="rdf:#$2wIU71">password to leviathan1</A>
 ```
