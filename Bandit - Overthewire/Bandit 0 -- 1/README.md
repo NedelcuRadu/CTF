@@ -24,4 +24,4 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 **Password:** boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 
-[Next Level](https://github.com/ShumaherK/Bandit-Writeups/blob/master/Bandit%201%20--%202/README.md)
+[Next Level](../Bandit%201%20--%202/README.md)
