@@ -11,7 +11,7 @@ Use this password to log in to krypton.labs.overthewire.org with username krypto
 
 For this level we can use an [online tool](https://www.base64decode.org/) or simply use the terminal:
 
-```
+```console
 root@kali:~# base64 -d 
 S1JZUFRPTklTR1JFQVQ=
 KRYPTONISGREAT
