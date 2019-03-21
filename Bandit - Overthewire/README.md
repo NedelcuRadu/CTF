@@ -5,10 +5,10 @@
 Bandit is a wargame hosted by [OverTheWire](http://overthewire.org/wargames/bandit), aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
 # Link to levels:
-+ [Bandit 0 ->1](./Bandit%200%20--%201/README.md)
-+ [Bandit 1 ->2](./Bandit%201%20--%202/README.md)
-+ [Bandit 2 ->3](./Bandit%202%20--%203/README.md)
-+ [Bandit 3 ->4](./Bandit%203%20--%204/README.md)
++ [Bandit 0 -> 1](./Bandit%200%20--%201/README.md)
++ [Bandit 1 -> 2](./Bandit%201%20--%202/README.md)
++ [Bandit 2 -> 3](./Bandit%202%20--%203/README.md)
++ [Bandit 3 -> 4](./Bandit%203%20--%204/README.md)
 + [Bandit 4 -> 5](./Bandit%204%20--%205/README.md)
 + [Bandit 5 -> 6](./Bandit%205%20--%206/README.md)
 + [Bandit 6 -> 7](./Bandit%206%20--%207/README.md)
