@@ -18,7 +18,7 @@ Our ciphertexts are:
  * [Found1](./Found%201)
  * [Found2](./Found%202)
  * [Found3](./Found%203)
-```
+```console
 
 ```
 
