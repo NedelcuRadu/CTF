@@ -1,5 +1,5 @@
 # Leviathan 0 -> 1
-> SSH Info: ssh -p2223 leviathan0@leviathan.labs.overthewire.org
+> SSH Info: ssh -p2223 leviathan0@leviathan.labs.overthewire.org  
 > Password: leviathan0
 
 ## Level files
@@ -34,4 +34,4 @@ leviathan0@leviathan:~/.backup$ grep password bookmarks.html
 **Password:** rioGegei8m
 
 
-[Next Level](../Bandit%201%20--%202/README.md)
+[Next Level](../Leviathan%201%20--%202/README.md)
