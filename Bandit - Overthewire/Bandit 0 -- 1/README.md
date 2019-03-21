@@ -7,7 +7,7 @@
 
 We can check the list of files using [`ls`](https://en.wikipedia.org/wiki/Ls) command and then we will simply read the file using the [`cat`](https://en.wikipedia.org/wiki/Cat_(Unix)) command and then log into the next level.
 
-```console
+```
 bandit0@bandit:~$ ls -la
 total 24
 drwxr-xr-x  2 root    root    4096 Oct 16 14:00 .
