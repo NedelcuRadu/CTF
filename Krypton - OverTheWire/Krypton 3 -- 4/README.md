@@ -15,9 +15,9 @@ Enjoy.
 This time the level will not be so easy and we will have to crack the code manually, using [frequency analysis](https://learncryptography.com/attack-vectors/frequency-analysis). I recommend [this](https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html#encrypt) tool in order to make things a little easier to track.
 
 Our ciphertexts are:
- * [Found1](./Found1)
- * [Found2](./Found2)
- * [Found3](./Found3)
+ * [Found1](./Found 1)
+ * [Found2](./Found 2)
+ * [Found3](./Found 3)
 ```
 
 ```
