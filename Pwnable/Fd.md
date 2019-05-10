@@ -31,7 +31,14 @@ int main(int argc, char* argv[], char* envp[]){
 
 ```
 We need to get buf equal to `LETMEWIN`, but how we do that? We need to exploit the [`read`](http://codewiki.wikidot.com/c:system-calls:read) function in order to make it read from stdin, that means setting fd to 0.
+[`Atoi`](http://www.cplusplus.com/reference/cstdlib/atoi/) transforms a string to int, but to simplify things we are going to simply pass a number. Transforming hex 0x1234 to int gives us 4660, which will be our argument.
 
+```console
+fd@ubuntu:~$ ./fd 4660
+LETMEWIN
+good job :)
+mommy! I think I know what a file descriptor is!!
+```
 
 **Password:** boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
